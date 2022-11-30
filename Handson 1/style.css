@@ -1,0 +1,39 @@
+h1,h2{
+    color: red;
+    font-style: italic;
+}
+.class1{
+    text-decoration: line-through;
+    font-weight: 1000;
+}
+.class2{
+    background-color: yellow;
+    text-decoration: solid;
+    font-weight:1000;
+}
+.class3{
+    text-decoration: underline;
+    font-style: italic;
+}
+.unorderlist{
+    text-transform: capitalize;
+        font-size: 18px;
+        letter-spacing: 5px;
+        text-decoration: solid;
+        color: brown;
+
+}
+.link{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    font-weight: 1000;
+
+}
+.orderlist{
+    line-height: 50px;
+    color: brown;
+}
+p{
+    color: brown;
+}
