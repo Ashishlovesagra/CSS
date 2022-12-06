@@ -70,9 +70,9 @@ li{
 }
 .form{
     display: inline-block;
-    line-height:280%;
+    
     width: 35%;
-    height: 400px;
+    height: 350px;
     height: 130%;
     background-color:white;
     border: 10px solid red;
